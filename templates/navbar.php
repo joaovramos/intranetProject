@@ -15,7 +15,7 @@ session_start();
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="ti.php">HOME</a>
-				  <a class="navbar-brand" href="noticias.php">Noticias</a>
+				  <a class="navbar-brand" href="noticias.php">Informativos</a>
                   <a class="navbar-brand" href="ramais.php">Ramais</a>
                   <a class="navbar-brand" href="downloads.php">Downloads</a>
                   <a class="navbar-brand" href="restaurante.php">Restaurante</a>

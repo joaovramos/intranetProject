@@ -2,7 +2,7 @@
 <html>
     
 <head>
-    <title>Intranet Corporativa - Noticias</title>    
+    <title>Intranet Corporativa - Informativos</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -23,7 +23,7 @@
                 
         <div class="conteudo row">
         
-			<h2>Noticias</h2>
+			<h2>Informativos</h2>
 		    <div class="col-sm-12">
                 
                   <div class="panel panel-primary col-sm-8">
