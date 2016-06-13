@@ -1,0 +1,53 @@
+body {
+    background-color: azure;
+}
+.navbar navbar-default {
+    color: aqua;
+}
+.cabec_top {
+    margin-top: 20px;
+}
+.cabec_low {
+    margin-bottom: 20px;
+}
+#rodape {
+    background-color: #FAF0E6;
+    color: black;
+    padding: 15px;
+}
+.logout {
+    font-weight: bold;
+}
+.crud{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.botao{
+    
+    width: 20px;
+    
+}
+.box{
+    
+    display: none;
+    border: 1px solid #000;
+}
+
+/*--------------Cod Terceiro--------------- */
+
+
+/*Accordion*/
+
+.glyphicon {
+    margin-right: 10px;
+}
+.panel-body {
+    padding: 0px;
+}
+.panel-body table tr td {
+    padding-left: 15px
+}
+.panel-body .table {
+    margin-bottom: 0px;
+}
